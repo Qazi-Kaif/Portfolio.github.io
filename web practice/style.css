@@ -1,0 +1,276 @@
+
+   
+
+*{
+    padding: 0;
+    margin: 0%;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+   
+}
+body{
+    background-color: rgb(121, 120, 120);
+    font-family: sans-serif;
+}
+nav{
+    height: 80px;
+    width: 100%;
+
+}
+label.logo{
+    color:white;
+    font-size: 35px;
+    line-height: 100px;
+    padding: 0 100px;
+    font-weight: bold;
+
+}
+nav  ul{
+    float: right;
+    margin-right: 200px;
+} 
+nav ul li{
+    display: inline-block;
+    line-height: 100px;
+    margin: 0 5px;
+    justify-content: flex-start;
+    
+}
+nav ul li a{
+    color: white;
+    font-size: 17px;
+    text-transform: uppercase;
+    padding: 7px 13px;
+    border-radius: 3px;
+
+}
+.menu{
+    margin-right: 250px;
+    margin-top: -100px;
+}
+.images{
+    margin-left: 700px;
+    margin-top: -100px;
+    
+
+}
+
+.text-1{
+    margin-left: 100px;
+    margin-top: 100px;
+    font-size: 30px;
+    color: rgb(75, 72, 72)
+    ;
+  
+    
+}
+.text-2{
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+.text-3{
+    color: yellow;
+    font-weight: bolder;
+    margin-left: 100px;
+}
+.text-4{
+   margin-left: 100px;
+   margin-top: 10px;
+   font-size: 15px;
+   color: aliceblue;
+}
+.circle{
+    height: 350px; 
+    width: 350px;
+    border-radius: 50%;
+ background-color:rgb(99, 94, 94);
+ margin-left: 350px;
+ margin-top: -230px;
+ opacity: inherit;
+}
+.social-circle{
+    display: flex;
+    justify-content: center;
+    margin-left: 180px;
+   
+   
+}
+.social{
+    padding: 0 10px;
+   
+}
+.james-pic{
+    margin-top: -220px;
+    margin-left: -180px;
+}
+.text-5{
+    margin-left: 50%;
+    margin-top: -20%;
+    line-height: 40px;
+    color: white;
+}
+.text-6{
+    margin-left: 50%;
+    color: white;
+    font-size: 20px;
+    
+}
+.text-7{
+    margin-left: 50%;
+    line-height: 40px;
+    color: yellow;
+    font-weight: bold;
+}
+.box-2{
+    border: solid;
+    color: rgb(116, 113, 113);
+    height: 100px;
+    width: 1050px;
+    margin-top: 130px;
+    margin-left: 100px;
+    background-color: rgb(121, 120, 120);
+    display: flex;
+    justify-content: space-around;
+
+}
+.photos{
+    margin-top: 25px;
+    background-color: rgb(53, 51, 51); 
+    height: 40px;
+    width: 150px;
+}
+.box-3{
+    background-color: rgb(53, 51, 51);
+    height: 800px;
+}
+h3{
+    color: yellow;
+}
+.text-8{
+   
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 40px;
+}
+.text-9{
+    margin-left: 100px;
+    font-size: 15px;
+    color: aliceblue;
+    
+}
+.text-10{
+    margin-left: 100px;
+    font-size: 15px;
+    color: aliceblue;
+    margin-top: 30px;
+}
+.text-11{
+    margin-left: 300px;
+    font-size: 15px;
+    color: aliceblue;
+    margin-top: -40px;
+}
+.text-12{
+    margin-left: 100px;
+    font-size: 15px;
+    color: aliceblue;
+    margin-top: 30px;
+}
+.text-13{
+    margin-left: 300px;
+    font-size: 15px;
+    color: aliceblue;
+    margin-top: -40px;
+    padding: 5px;
+}
+.fourteen{
+    margin-left: 650px;
+   margin-top: -250px;
+   
+}
+.side-1{
+    margin-left: 780px;
+    margin-top: -60px;
+    color: aliceblue;
+}
+.side-row{
+    margin-left: 650px;
+    margin-top: 10px;
+    font-weight: bold;
+   
+    color: rgb(121, 120, 120);
+}
+
+.fivteen{
+    margin-left: 650px;
+   margin-top: 20px;
+}
+.side-2{
+    margin-left: 780px;
+    margin-top: -60px;
+    color: aliceblue;
+}
+.side-row2{
+    margin-left: 650px;
+    margin-top: 10px;
+    font-weight: bold;
+   
+    color: rgb(121, 120, 120);
+}
+
+.sixteen{
+    margin-left: 650px;
+   margin-top: 20px;
+}
+
+.side-3{
+    margin-left: 780px;
+    margin-top: -60px;
+    color: aliceblue;
+}
+.side-row3{
+    margin-left: 650px;
+    margin-top: 10px;
+    font-weight: bold;
+   
+    color: rgb(121, 120, 120);
+}
+.seventeen{
+    height: 220px;
+    width: 290px;
+    color: aliceblue;
+    border: 50px;
+    background-color:rgb(121, 120, 120);;
+    padding: 35px;
+   margin-left: 100px;
+   margin-top: 220px;
+}
+
+    .senteen{
+        height: 220px;
+        width: 290px;
+        border: 50px;
+        background-color:rgb(121, 120, 120);;
+        padding: 35px;
+       margin-left: 400px;
+       margin-top: -220px;
+       color: aliceblue;
+    }
+    .steen{
+        height: 220px;
+        width: 290px;
+        border: 50px;
+        background-color:rgb(121, 120, 120);;
+        padding: 35px;
+       margin-left: 700px;
+       margin-top: -238px;
+       color: aliceblue;
+    
+    }
